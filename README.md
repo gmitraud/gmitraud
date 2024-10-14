@@ -24,6 +24,18 @@ I am a developer passionate about technology, always looking to learn new skills
 
 ---
 
+## Soft Skills 💼
+
+- 🗣️ **Assertive Communication**: I prioritize clear and effective communication, ensuring mutual understanding and smooth collaboration.
+- 🚀 **Proactiveness**: I take initiative in identifying opportunities for improvement and act swiftly to resolve challenges.
+- 🤝 **Team Player**: I thrive in collaborative environments, contributing to team success while fostering a positive and inclusive atmosphere.
+- 🎯 **Loves Challenges**: I embrace complex problems with enthusiasm, always seeking creative solutions and learning opportunities.
+- 🔍 **Attention to Detail**: I maintain a focus on precision and thoroughness in every task I undertake.
+- 🕒 **Time Management**: I efficiently manage my time to balance multiple priorities and consistently meet deadlines.
+- 🔄 **Adaptability**: I am quick to adjust to new situations and technologies, staying agile in fast-paced environments.
+
+---
+
 ## GitHub Stats 📊
 
 <p align="center">
