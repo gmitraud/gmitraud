@@ -27,8 +27,8 @@ I am a developer passionate about technology, always looking to learn new skills
 ## GitHub Stats 📊
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="gmitraud stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="gmitraud streak stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gmitraud&show_icons=true&theme=radical" alt="gmitraud stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gmitraud&theme=radical" alt="gmitraud streak stats" />
 </p>
 
 ---
